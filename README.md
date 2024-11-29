@@ -17,3 +17,5 @@
 - Everybody Codes: https://everybody.codes/home
 - Pi Day Contest: https://ivanr3d.com/projects/pi
 - Rosalind: https://rosalind.info
+- Protohackers: https://protohackers.com
+- Cryptopals: https://cryptopals.com
