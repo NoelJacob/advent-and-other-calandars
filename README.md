@@ -12,6 +12,7 @@
 
 # Other Challenges
 - **Project Euler**: https://projecteuler.net
+- The Athenaion: https://www.the-athenaion.com
 - Hannukkah of Data: https://hanukkah.bluebird.sh/5784
 - Everybody Codes: https://everybody.codes/home
 - Pi Day Contest: https://ivanr3d.com/projects/pi
