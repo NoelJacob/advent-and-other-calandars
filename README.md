@@ -10,7 +10,7 @@
 # Summer Calandars
 - Summer of Math Exposition: https://some.3b1b.co
 
-# Other Challenges
+# Continuous Challenges
 - **Project Euler**: https://projecteuler.net
 - The Athenaion: https://www.the-athenaion.com
 - Hannukkah of Data: https://hanukkah.bluebird.sh/5784
