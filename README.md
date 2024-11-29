@@ -19,3 +19,4 @@
 - Rosalind: https://rosalind.info
 - Protohackers: https://protohackers.com
 - Cryptopals: https://cryptopals.com
+- Deus x64: https://deusx64.ai
