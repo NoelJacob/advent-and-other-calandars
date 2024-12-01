@@ -6,6 +6,7 @@
 - Advent of Craft: https://github.com/advent-of-craft
 - MATH+ Advent Calendar: https://www.mathekalender.de/wp
 - Java Advent Calandar: https://www.javaadvent.com
+- Advent of Rust: https://www.rustfinity.com/advent-of-rust
 
 # Summer Calandars
 - Summer of Math Exposition: https://some.3b1b.co
