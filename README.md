@@ -9,7 +9,7 @@
 - Advent of Rust: https://www.rustfinity.com/advent-of-rust
 - Advent of CSS: https://www.adventofcss.com
 - Advent of Javascript: https://www.adventofjs.com
-- Advent JS: https://www.adventofjs.com
+- Advent JS: https://adventjs.dev
 
 # Summer Calandars
 - Summer of Math Exposition: https://some.3b1b.co
